@@ -1,5 +1,5 @@
 
-class MiComponente123 extends HTMLElement{
+class MiComponentelmp extends HTMLElement{
     constructor(){
         super();
         this.innerHTML = `
@@ -8,4 +8,4 @@ class MiComponente123 extends HTMLElement{
     }
 }
 
-customElements.define("team-LMP", MiComponente123);
+customElements.define("team-lmp", MiComponentelmp);
